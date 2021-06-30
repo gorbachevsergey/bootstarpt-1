@@ -1,0 +1,29 @@
+.carouselMein{
+    margin-top: 120px;
+}
+
+#foto{
+    margin-top: 120px;
+    text-align: center;
+}
+
+#reviews{
+    padding-top: 120px;
+    padding-bottom: 15px;
+}
+
+P{
+    padding-top:15px;
+    line-height: 0.9em;
+}
+
+.visOff{
+    display: none;
+}
+
+.visOn{
+    display:block;
+}
+.revMain h3{
+    padding-top:25px;
+}
